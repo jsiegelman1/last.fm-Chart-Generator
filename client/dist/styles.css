@@ -1,0 +1,38 @@
+.lfm-buttons, form, button  {
+  margin: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#app {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.container {
+  padding-bottom: 50px;
+
+}
+
+.img-holder {
+  padding-left: 10%;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.options {
+  width: auto ;
+}
+
+
+input, select, label {
+  margin: 5px;
+
+}
+
+a {
+  text-decoration: none;
+}
